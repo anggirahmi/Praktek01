@@ -11,9 +11,28 @@ package praktek01;
  */
 public class ParfumAksi {
     public static void main(String[] args) {
-        Parfum 1 = new Parfum();
-        Parfum 2 = new Parfum();
-        Parfum 3 = new Parfum();
+        Parfum A = new Parfum();
+        Parfum B = new Parfum();
+        Parfum C = new Parfum();
+        
+        
+       A.jenis_parfum="cologne";
+       A.merk_parfum="eskulin";
+       A.kadar_alkohol="0.1 persen";
+       A.harga_parfum="15.000";
+       A.ukuran_botol="sedang";
+
+       B.jenis_parfum="body mist";
+       B.merk_parfum="vitalis";
+       B.kadar_alkohol="0.5 persen";
+       B.harga_parfum="20.000";
+       B.ukuran_botol="kecil";
+       
+       C.jenis_parfum="Toillette";
+       C.merk_parfum="casablanca";
+       C.kadar_alkohol="0.5 persen";
+       C.harga_parfum="22.000";
+       C.ukuran_botol="besar";
     }
     
 }

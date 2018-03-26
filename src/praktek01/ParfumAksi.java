@@ -34,6 +34,13 @@ public class ParfumAksi {
        C.harga_parfum="22.000";
        C.ukuran_botol="besar";
        
+       A.cetakInfo();
+       System.out.println();
+       B.cetakInfo();
+       System.out.println();
+       C.cetakInfo();
+       
+       
        
     }
     

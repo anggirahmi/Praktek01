@@ -10,5 +10,10 @@ package praktek01;
  * @author Acer
  */
 public class ParfumAksi {
+    public static void main(String[] args) {
+        Parfum 1 = new Parfum();
+        Parfum 2 = new Parfum();
+        Parfum 3 = new Parfum();
+    }
     
 }

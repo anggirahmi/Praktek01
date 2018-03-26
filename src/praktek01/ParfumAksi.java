@@ -33,6 +33,8 @@ public class ParfumAksi {
        C.kadar_alkohol="0.5 persen";
        C.harga_parfum="22.000";
        C.ukuran_botol="besar";
+       
+       
     }
     
 }

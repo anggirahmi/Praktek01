@@ -10,19 +10,19 @@ package praktek01;
  * @author Acer
  */
 public class Parfum {
-+    string jenis_parfum;
-+    string merk_parfum;
-+    string kadar_alkohol;
-+    string harga_parfum;
-+    string ukuran_botol;
+    String jenis_parfum;
+    String merk_parfum;
+    String kadar_alkohol;
+    String harga_parfum;
+    String ukuran_botol;
 
 
 void cetakInfo(){
 
-    system.out.printIn("jenis_parfum :"+jenis_parfum);
-    system.out.printIn("merk_parfum  :"+merk_parfum);
-    system.out.printIn("kadar_alkohol :"+kadar_alkohol);
-    system.out.printIn("harga_parfum :"+harga_parfum);
-    system.out.printIn("ukuran_botol :"+ukuran_botol);
+    System.out.println("jenis_parfum :"+jenis_parfum);
+    System.out.println("merk_parfum  :"+merk_parfum);
+    System.out.println("kadar_alkohol :"+kadar_alkohol);
+    System.out.println("harga_parfum :"+harga_parfum);
+    System.out.println("ukuran_botol :"+ukuran_botol);
 }
 }
